@@ -1,0 +1,29 @@
+{
+  "https://amazon.com": {
+    "Amazon CloudFront": {},
+    "Amazon Web Services": {},
+    "HSTS": {},
+    "HTTP/3": {}
+  },
+  "https://apple.com": {
+    "Apple MapKit JS": {},
+    "HSTS": {}
+  },
+  "https://es.wikipedia.org": {
+    "HSTS": {},
+    "MediaWiki:1.44.0-wmf.25": {},
+    "PHP": {}
+  },
+  "https://imdb.com": {
+    "Amazon CloudFront": {},
+    "Amazon Web Services": {},
+    "HTTP/3": {}
+  },
+  "https://microsoft.com": {
+    "Adobe Experience Manager": {},
+    "Akamai": {},
+    "HSTS": {},
+    "Java": {},
+    "jQuery": {}
+  }
+}
